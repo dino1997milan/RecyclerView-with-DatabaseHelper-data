@@ -1,0 +1,13 @@
+com/elebio2/esercitazione02/DataModelRisultati.java
+ com.elebio2.esercitazione02.DataModelRisultati
+com/elebio2/esercitazione02/ListaRisultatiFragment.java
+ com.elebio2.esercitazione02.ListaRisultatiFragment
+com/elebio2/esercitazione02/DataBaseHelper.java
+ com.elebio2.esercitazione02.DataBaseHelper
+com/elebio2/esercitazione02/MyAdapterRisultati.java
+ com.elebio2.esercitazione02.MyAdapterRisultati
+ com.elebio2.esercitazione02.MyAdapterRisultati$MyViewHolder
+com/elebio2/esercitazione02/MainActivity.java
+ com.elebio2.esercitazione02.MainActivity
+com/elebio2/esercitazione02/BuildConfig.java
+ com.elebio2.esercitazione02.BuildConfig
